@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+@media screen and (min-width:757px){
+
+    #imga{
+        width: 400px;
+        height: auto;
+    }
+
+    article#fis > img{
+        width: 200px;
+        height: auto;
+        padding-right: 30px;
+        padding-bottom: 20px;
+    }
+    
+    
+    article#fis > article#cbum1 > img#cbum{
+        width: 250px;
+        height: 250px;
+        padding: 0px;
+    }
+}
